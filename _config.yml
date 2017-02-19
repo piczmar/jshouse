@@ -5,7 +5,7 @@ locale: en_US
 description: in Cloud it all happens
 logo: site-logo.png
 search: true
-url: 
+url:
 
 # Jekyll configuration
 
@@ -52,7 +52,7 @@ owner:
   weibo: #userid
   google:
     plus: 108701036453403152884
-    analytics:
+    analytics: UA-92222378-1
     verify:
     ad-client:
     ad-slot:
