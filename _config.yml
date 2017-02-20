@@ -5,7 +5,7 @@ locale: en_US
 description: in Cloud it all happens
 logo: site-logo2.png
 search: true
-url:
+url: https://cloudly.tech
 
 # Jekyll configuration
 
