@@ -3,7 +3,7 @@
 title: Cloudly Tech
 locale: en_US
 description: in Cloud it all happens
-logo: site-logo.png
+logo: site-logo2.png
 search: true
 url:
 
@@ -19,6 +19,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-seo-tag
 
 kramdown:
   input: GFM
@@ -53,7 +54,7 @@ owner:
   google:
     plus: 108701036453403152884
     analytics: UA-92222378-1
-    verify:
+    verify: google-site-verification=J53C9jJXWP5rNk30kydeK38XTPctca7f_aG43z8LfLI
     ad-client:
     ad-slot:
   bing-verify:
