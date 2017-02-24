@@ -6,6 +6,7 @@ modified: 2017-02-15T19:44:38.564948+01:00
 
 ---
 
+{% include newsletter-big.html %}
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
 ## So Simple Theme is all about:
